@@ -1,0 +1,17 @@
+My name is Ryan Shontell. I am a Cell and Molecular Biology Graduate Student at the University of Hawaii
+currently working on a project with Dr. Lenora Loo at the University of Hawaii Cancer Center.
+The project is to investigate the biological differences between clinically diagnosed ER+ breat cancers
+between Native Hawaiians and Whites that lead to poor prognosis. 
+
+I am currently using Python3.6. The scripts are written with several plugins that must be installed through Anaconda.
+
+https://conda.io/docs/user-guide/getting-started.html#starting-conda
+
+The plug ins include
+-pandas
+-numpy
+-openpyxl
+-xlrd
+
+I am learning as I work on this project, so the scripts are going to be rough and bulky, but they do their job. If you need
+any help in running them, please feel free to email me: ryankhs@hawaii.edu
